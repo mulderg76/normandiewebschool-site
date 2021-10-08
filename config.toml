@@ -1,3 +1,4 @@
+baseURL = "https://nervous-feynman-93afc7.netlify.app"
 enableRobotsTXT = true
 languageCode = "fr-fr"
 summaryLength = "10"
